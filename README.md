@@ -1,4 +1,4 @@
-https://hashcrypto-shivansh3950.netlify.app/
+Project deployed at : https://hashcrypto-shivansh3950.netlify.app/
 
 # Getting Started with Create React App
 
